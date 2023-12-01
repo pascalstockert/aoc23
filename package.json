@@ -1,0 +1,10 @@
+{
+  "name": "aoc",
+  "version": "0.0.0",
+  "description": "JS solutions to the 2023 AOC challenge",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@types/node": "^20.10.2"
+  }
+}
